@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+ inster the file conttent in master branch
+=======
+file 6 commiting in zomm
+>>>>>>> zoom
+merging changes
